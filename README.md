@@ -1,3 +1,3 @@
-# angular-dh3jvg
+# Getting Started with Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-dh3jvg)
+E-commerce tutorial project that covers the basic features of Angular
